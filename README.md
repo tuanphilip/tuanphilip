@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm Philip (Tuan Phuong)
+# 👋 Hi there, I'm Philip
 
 ### 🚀 AI Systems Engineer & Full-Stack Automation Architect
 **Building Autonomous AI Agents, Scalable SaaS, and Digital Product Toolkits**
